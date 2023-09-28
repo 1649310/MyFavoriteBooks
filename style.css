@@ -14,7 +14,7 @@ div {
   display: flex;
 }
 aside {
-  width: 60%;
+  min-width: 25%;
   font-family: Georgia;
   font-size: 16px;
 }
